@@ -9,6 +9,15 @@
 
 **Link to work:** [React Installations](Day1/Day1.md)
 
+### Day 2: April 4th, 2024.
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: React App, JSX and Functional Components (Navbar, Home and Footer creating and adding them in App.js component) as well as installing tailwindcss for styling
+
+**Thoughts:** Lesson is real amazing, still insipired to go ahead with react
+
+**Link to work:** [React, JSX & Functional Components](Day2/Day2.md)
+
 
 
 <!-- **Link(s) to work**
