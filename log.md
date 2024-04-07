@@ -41,9 +41,9 @@
 <!-- Day five of 100DaysOfCode -->
 ### Day 5: April 7th, 2024.
 
-**Today's Progress**: Learning useState Hook.
+**Today's Progress**: Learning List and Keys as well as saving items in a localStorage
 
-**Thoughts:** 
+**Thoughts:** Lessons is full of funny Vanila Javascript concepts, i real enojoy the session
 
 **Link to work:** [List & Keys](Day5/Day5.md)
 

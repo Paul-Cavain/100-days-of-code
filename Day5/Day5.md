@@ -1,2 +1,2 @@
 # Day 5
-Learning list & keys in React.
+Learning List and Keys as well as saving items in a localStorage
