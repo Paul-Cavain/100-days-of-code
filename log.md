@@ -48,6 +48,55 @@
 **Link to work:** [List & Keys](Day5/Day5.md)
 
 
+<!-- Day six of 100DaysOfCode -->
+### Day 6: April 8th, 2024.
+
+**Today's Progress**: Learning Props (prop Drilling) as well as Re-usable components
+
+**Thoughts:** Somehow the Lesson needs little carefully during data accessing to another components 
+
+**Link to work:** [Prop Drilling](Day6/Day6.md)
+
+
+<!-- Day seven of 100DaysOfCode -->
+### Day 7: April 9th, 2024.
+
+**Today's Progress**: Learning Controlled Inputs and Search item in React
+
+**Thoughts:** Vannila Javascript is a key to these basics of React.
+**Link to work:** [Controlled Inputs](Day7/Day7.md)
+
+
+<!-- Day eight of 100DaysOfCode -->
+### Day 8: April 10th, 2024.
+
+**Today's Progress**: Solving a project challenge of just typing any color name and display its color in a screen.
+
+**Thoughts:** Just a whole review of all features learned from day one to day 7 
+
+**Link to work:** [Challenge Project](Day8/Day8.md)
+
+
+<!-- Day nine of 100DaysOfCode -->
+<!-- ### Day 9: April 11st, 2024.
+
+**Today's Progress**: Learning List and Keys as well as saving items in a localStorage
+
+**Thoughts:** Lessons is full of funny Vanila Javascript concepts, i real enojoy the session
+
+**Link to work:** [List & Keys](Day9/Day9.md)
+
+
+<!-- Day ten of 100DaysOfCode -->
+<!-- ### Day 10: April 12rd, 2024.
+
+**Today's Progress**: Learning List and Keys as well as saving items in a localStorage
+
+**Thoughts:** Lessons is full of funny Vanila Javascript concepts, i real enojoy the session
+
+**Link to work:** [List & Keys](Day9/Day9.md)  -->
+
+
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
