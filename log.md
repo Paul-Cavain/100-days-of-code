@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!-- Day one of 100DaysOfCode -->
-### Day 1: April 3rd, 2024.
+### Day 1: April 6rd, 2024.
 **Today's Progress**: Installations of node js (Javascript Runtime Environment), Adding React Developer Tools as Chrome extension as well as creating react-app, adding some Visual studio code extensions for react (ES7 React/Redux/GraphQL/React-Native snippets), setting Vs code emmet ("javascript": "javascript")..
 
 **Thoughts:** I really feel like I am slowly getting better at it. React is still new for me, but I managed to figure out some basic functionality.
@@ -10,7 +10,7 @@
 
 
 <!-- Day two of 100DaysOfCode -->
-### Day 2: April 4th, 2024.
+### Day 2: April 7th, 2024.
 
 **Today's Progress**: React App, JSX and Functional Components (Navbar, Home and Footer creating and adding them in App.js component) as well as installing tailwindcss for styling
 
@@ -20,16 +20,16 @@
 
 
 <!-- Day three of 100DaysOfCode -->
-### Day 3: April 5th, 2024.
+### Day 3: April 8th, 2024.
 
 **Today's Progress**: Learning click events, passing parameter over an event and handling events in React.
 
 **Thoughts:** Sessions awesome as long as having some basics of javascript
 
 **Link to work:** [Click Events](Day3/Day3.md)
-
+    
 <!-- Day four of 100DaysOfCode -->
-### Day 4: April 6th, 2024.
+### Day 4: April 9th, 2024.
 
 **Today's Progress**: Learning useState Hook.
 
@@ -39,7 +39,7 @@
 
 
 <!-- Day five of 100DaysOfCode -->
-### Day 5: April 7th, 2024.
+### Day 5: April 10th, 2024.
 
 **Today's Progress**: Learning List and Keys as well as saving items in a localStorage
 
@@ -49,7 +49,7 @@
 
 
 <!-- Day six of 100DaysOfCode -->
-### Day 6: April 8th, 2024.
+### Day 6: April 11st, 2024.
 
 **Today's Progress**: Learning Props (prop Drilling) as well as Re-usable components
 
@@ -59,7 +59,7 @@
 
 
 <!-- Day seven of 100DaysOfCode -->
-### Day 7: April 9th, 2024.
+### Day 7: April 12rd, 2024.
 
 **Today's Progress**: Learning Controlled Inputs and Search item in React
 
@@ -68,9 +68,9 @@
 
 
 <!-- Day eight of 100DaysOfCode -->
-### Day 8: April 10th, 2024.
+### Day 8: April 13rd, 2024.
 
-**Today's Progress**: Solving a project challenge of just typing any color name and display its color in a screen.
+**Today's Progress**: Solving a project challenge of just typing any color name and display its color and its hexValues in a screen.
 
 **Thoughts:** Just a whole review of all features learned from day one to day 7 
 
@@ -78,13 +78,13 @@
 
 
 <!-- Day nine of 100DaysOfCode -->
-<!-- ### Day 9: April 11st, 2024.
+### Day 9: April 14th, 2024.
 
-**Today's Progress**: Learning List and Keys as well as saving items in a localStorage
+**Today's Progress**: Learning useEffect Hook in React
 
-**Thoughts:** Lessons is full of funny Vanila Javascript concepts, i real enojoy the session
+**Thoughts:** 
 
-**Link to work:** [List & Keys](Day9/Day9.md)
+**Link to work:** [useEffect Hook](Day9/Day9.md)
 
 
 <!-- Day ten of 100DaysOfCode -->
@@ -98,6 +98,6 @@
 
 
 
-<!-- **Link(s) to work**
+**Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
