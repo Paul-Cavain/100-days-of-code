@@ -82,19 +82,27 @@
 
 **Today's Progress**: Learning useEffect Hook in React
 
-**Thoughts:** 
+**Thoughts:** Little technique to tackle the lesson, it was real awesome since the basic of useState was well understood
 
 **Link to work:** [useEffect Hook](Day9/Day9.md)
 
 
 <!-- Day ten of 100DaysOfCode -->
-<!-- ### Day 10: April 12rd, 2024.
+### Day 10: April 15rd, 2024.
 
-**Today's Progress**: Learning List and Keys as well as saving items in a localStorage
+**Today's Progress**: Learning JSON Server
 
-**Thoughts:** Lessons is full of funny Vanila Javascript concepts, i real enojoy the session
+**Thoughts:** 
+**Link to work:** [JSON Server](Day10/Day10.md)
 
-**Link to work:** [List & Keys](Day9/Day9.md)  -->
+
+<!-- Day eleven of 100DaysOfCode -->
+### Day 11: April 16rd, 2024.
+
+**Today's Progress**: Learning Fetching API data
+
+**Thoughts:** 
+**Link to work:** [Fetch API Data](Day11/Day11.md)
 
 
 
