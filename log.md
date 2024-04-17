@@ -101,8 +101,17 @@
 
 **Today's Progress**: Learning Fetching API data
 
-**Thoughts:** 
+**Thoughts:** With th ehelp of javascript basics (Async and Await make the lesson so simple)
 **Link to work:** [Fetch API Data](Day11/Day11.md)
+
+
+<!-- Day twelve of 100DaysOfCode -->
+### Day 12: April 17rd, 2024.
+
+**Today's Progress**: Learning CRUD Operations (posting item, update item and delete item) to api (db.json file) in React
+
+**Thoughts:** The lesson was real amazing refering to previous tutor of react.
+**Link to work:** [CRUD Operations](Day12/Day12.md)
 
 
 
