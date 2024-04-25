@@ -114,6 +114,27 @@
 **Link to work:** [CRUD Operations](Day12/Day12.md)
 
 
+<!-- Day thirteen of 100DaysOfCode -->
+### Day 13: April 24rd, 2024.
+
+**Today's Progress**: Solving interactive card details challenge using React
+
+**Thoughts:** The lesson was real amazing refering to previous tutor of react.
+
+**Link to work:** [Interactive card details callenge](Day13/Day13.md)
+
+
+<!-- Day forteen of 100DaysOfCode -->
+### Day 14: April 25rd, 2024.
+
+**Today's Progress**: Solving interactive card details challenge using React
+
+**Thoughts:** The lesson was real amazing refering to previous tutor of react.
+
+**Link to work:** [Interactive card details callenge](Day14/Day14.md)
+
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
