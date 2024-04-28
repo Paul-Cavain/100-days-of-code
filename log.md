@@ -6,7 +6,7 @@
 
 **Thoughts:** I really feel like I am slowly getting better at it. React is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [React Installations](Day1/Day1.md)
+**Link to work:** [React Installations](Day01/Day1.md)
 
 
 <!-- Day two of 100DaysOfCode -->
@@ -16,7 +16,7 @@
 
 **Thoughts:** Lesson is real amazing, still insipired to go ahead with react
 
-**Link to work:** [React, JSX & Functional Components](Day2/Day2.md)
+**Link to work:** [React, JSX & Functional Components](Day02/Day2.md)
 
 
 <!-- Day three of 100DaysOfCode -->
@@ -26,7 +26,7 @@
 
 **Thoughts:** Sessions awesome as long as having some basics of javascript
 
-**Link to work:** [Click Events](Day3/Day3.md)
+**Link to work:** [Click Events](Day03/Day3.md)
     
 <!-- Day four of 100DaysOfCode -->
 ### Day 4: April 9th, 2024.
@@ -35,7 +35,7 @@
 
 **Thoughts:** 
 
-**Link to work:** [useState Hook](Day4/Day4.md)
+**Link to work:** [useState Hook](Day04/Day4.md)
 
 
 <!-- Day five of 100DaysOfCode -->
@@ -45,7 +45,7 @@
 
 **Thoughts:** Lessons is full of funny Vanila Javascript concepts, i real enojoy the session
 
-**Link to work:** [List & Keys](Day5/Day5.md)
+**Link to work:** [List & Keys](Day05/Day5.md)
 
 
 <!-- Day six of 100DaysOfCode -->
@@ -55,7 +55,7 @@
 
 **Thoughts:** Somehow the Lesson needs little carefully during data accessing to another components 
 
-**Link to work:** [Prop Drilling](Day6/Day6.md)
+**Link to work:** [Prop Drilling](Day06/Day6.md)
 
 
 <!-- Day seven of 100DaysOfCode -->
@@ -64,7 +64,7 @@
 **Today's Progress**: Learning Controlled Inputs and Search item in React
 
 **Thoughts:** Vannila Javascript is a key to these basics of React.
-**Link to work:** [Controlled Inputs](Day7/Day7.md)
+**Link to work:** [Controlled Inputs](Day07/Day7.md)
 
 
 <!-- Day eight of 100DaysOfCode -->
@@ -74,7 +74,7 @@
 
 **Thoughts:** Just a whole review of all features learned from day one to day 7 
 
-**Link to work:** [Challenge Project](Day8/Day8.md)
+**Link to work:** [Challenge Project](Day08/Day8.md)
 
 
 <!-- Day nine of 100DaysOfCode -->
@@ -84,7 +84,7 @@
 
 **Thoughts:** Little technique to tackle the lesson, it was real awesome since the basic of useState was well understood
 
-**Link to work:** [useEffect Hook](Day9/Day9.md)
+**Link to work:** [useEffect Hook](Day09/Day9.md)
 
 
 <!-- Day ten of 100DaysOfCode -->
