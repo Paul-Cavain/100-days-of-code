@@ -121,19 +121,47 @@
 
 **Thoughts:** The lesson was real amazing refering to previous tutor of react.
 
-**Link to work:** [Interactive card details callenge](Day13/Day13.md)
+**Link to work:** [Interactive card details challenge](Day13/Day13.md)
 
 
 <!-- Day forteen of 100DaysOfCode -->
 ### Day 14: April 25rd, 2024.
 
-**Today's Progress**: Solving interactive card details challenge using React
+**Today's Progress**: Solving fetching API data using React
 
 **Thoughts:** The lesson was real amazing refering to previous tutor of react.
 
-**Link to work:** [Interactive card details callenge](Day14/Day14.md)
+**Link to work:** [Fetching API Data challenge](Day14/Day14.md)
 
 
+<!-- Day fifteen of 100DaysOfCode -->
+### Day 15: April 26rd, 2024.
+
+**Today's Progress**: React Router && Router Hooks & Links
+
+**Thoughts:** The lesson was real amazing refering to previous tutor of react.
+
+**Link to work:** [React Router && Router Hooks &Links](Day15/Day15.md)
+
+
+<!-- Day sixteen of 100DaysOfCode -->
+### Day 16: April 27rd, 2024.
+
+**Today's Progress**: Flexbox Component
+
+**Thoughts:** The lesson was real amazing refering to previous tutor of react.
+
+**Link to work:** [Flexbox Component](Day16/Day16.md)
+
+
+<!-- Day seventeen of 100DaysOfCode -->
+### Day 16: April 28rd, 2024.
+
+**Today's Progress**: Axios API Requets
+
+**Thoughts:** The lesson was real amazing refering to previous tutor of react.
+
+**Link to work:** [Axios API Requets](Day17/Day17.md)
 
 
 **Link(s) to work**
